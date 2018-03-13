@@ -1,1 +1,1 @@
-This is for CS102A \nWelcome to JAVA World.
+This is for CS102A \n\rWelcome to JAVA World.
